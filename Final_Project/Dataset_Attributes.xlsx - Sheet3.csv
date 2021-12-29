@@ -1,0 +1,38 @@
+Feature,Type,Description
+NCESSCH,Character,School NCES ID
+TITLEI,Character,Title I eligible
+LEAID,Character,District NCES ID
+G12,Number,Grade 12 students
+SCHOOL_LEVEL,Character,"Elementary, High, Other, Not reported, Middle, Secondary, Prekindergarten, Not applicable, Ungraded, Adult Education"
+TOTFRL,Number,Total of free lunch and reduced-price lunch eligible
+FTE,Number,Total Teachers
+STUTERATIO,Number,Student teacher ratio
+TOTMENROL,Number,Total Male Enrollment
+TOTFENROL,Number,Total Female Enrollment
+PCT_MEN,Number,Total Male Enrollment/ Total Enrollment
+PCT_FEN,Number,Total Female Enrollment/ Total Enrollment
+PCT_FRL,Number,Total of free lunch and reduced-price lunch eligible/ Total Enrollment
+SCHOOL_TYPE,Number,"Alternative/other school':0, 'Regular school':1, 'Vocational school':0,'Special education school':0"
+STNAM,Character,State Name
+FIPST,Character,The two-digit American National Standards Institute (ANSI) code for state
+ALL_RATE,Number,Rate of students who graduated within the four-year adjusted-cohort
+ALL_COHORT,Number,Total number of students within the four-year adjusted-cohort
+MAM_COHORT,Number,Total number of American Indian/Alaska Native students within the four-year adjusted-cohort
+MAS_COHORT,Number,Total number of Asian/Pacific Islander students within the four-year adjusted-cohort
+MBL_COHORT,Number,Total number of Black students within the four-year adjusted-cohort
+MHI_COHORT,Number,Total number of Hispanic students within the four-year adjusted-cohort
+MTR_COHORT,Number,Total number of Multiracial students within the four-year adjusted-cohort
+MWH_COHORT,Number,Total number of White students within the four-year adjusted-cohort
+CWD_COHORT,Number,Total number of students with disabilities within the four-year adjusted-cohort
+ECD_COHORT,Number,Total number of economically disadvantaged students within the four-year adjusted-cohort
+FCS_COHORT,Number,Number of students in foster care in the graduation cohort
+HOM_COHORT,Number,Number of homeless enrolled students in the graduation cohort
+LEP_COHORT,Number,Total number of students with limited English proficiency within the four-year adjusted-cohort
+Success_Rate,Number,"ALL_RATE 67% & Above - Success = 1
+ALL_RATE 66% & Below - Low Performning = 0
+Every Student Succeeds Act (ESSA)  (Paul, n.d.) to continue to enhance schools’ performance and accountability to receive federal education funding. This act requires States to set goals for all students as well as subgroups (unlike NCLB), and to report schools with graduation rates below 67% as low performing  (2018, Achieve.org, par. 5)"
+PPCSTOT,Number,"The per pupil spending amounts are derived from current spending totals and the fall membership data. Per pupil expenditure does not include spending for nonelementary-secondary programs (community service, adult education), or spending by a school system for students not included in its fall membership counts."
+MATH_NUM,Number,Total number of students that completed a MATH assessment and for whom a proficiency level was assigned
+MATH_PCT,Number,Percentage of students in the school that scored at or above proficient in MATH assessment
+READ_NUM,Number,Total number of students that completed a READING assessment and for whom a proficiency level was assigned
+READ_PCT,Number,Percentage of students in the school that scored at or above proficient in READING assessment
