@@ -5,7 +5,7 @@ This notebook serves as an archive of the resources created and needed to comple
 ### *DATA*
 [Washington, D.C., Maryland, Virginia (DMV) Area Dataset](https://github.com/tmarissa/DATA-602---Diana/blob/main/Final_Project/DMV_GRAD_FINANCE_RACE_CLEAN%20-%20DMV_GRAD_FINANCE_RACE_CLEAN.csv)   
 [New York State (NYS) Dataset](https://github.com/tmarissa/DATA-602---Diana/blob/main/Final_Project/NY_GRAD_FINANCE_RACE_CLEAN%20-%20NY_GRAD_FINANCE_RACE_CLEAN.csv)   
-[National (USA) Dataset](https://docs.google.com/spreadsheets/d/1jQWi7e40JRi2r9BoQxbhpnnIWFohFuTLojsy0KBG2PI/edit#gid=1653859445)   
+[National (USA) Dataset](https://github.com/tmarissa/DATA-602---Diana/blob/main/Final_Project/NATIONAL_GRAD_FINANCE_RACE_CLEAN%20-%20NATIONAL_GRAD_FINANCE_RACE_CLEAN.csv)   
 
 ### *ATTRIBUTE DESCRIPTIONS*
 [Dataset Attribute Descriptions](https://github.com/tmarissa/DATA-602---Diana/blob/main/Final_Project/Dataset_Attributes.xlsx%20-%20Sheet3.csv)
